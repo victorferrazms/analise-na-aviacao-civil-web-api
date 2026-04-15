@@ -1,0 +1,10 @@
+2026-04-01 20:22:46,239 - INFO - Iniciando pipeline ETL...
+2026-04-01 20:22:50,158 - INFO - Extração concluída com sucesso.
+2026-04-01 20:22:50,362 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-01 20:22:50,410 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-01 20:22:50,410 - INFO - Pipeline concluído com sucesso.
+2026-04-01 21:00:50,441 - INFO - Iniciando pipeline ETL...
+2026-04-01 21:00:53,479 - INFO - Extração concluída com sucesso.
+2026-04-01 21:00:53,752 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-01 21:00:53,813 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-01 21:00:53,813 - INFO - Pipeline concluído com sucesso.

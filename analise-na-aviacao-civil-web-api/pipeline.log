@@ -1,0 +1,366 @@
+2026-03-04 20:41:40,169 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:41:49,653 - INFO - Extração concluída com sucesso.
+2026-03-04 20:43:15,756 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:43:21,433 - INFO - Extração concluída com sucesso.
+2026-03-04 20:43:21,728 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:43:21,791 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:43:21,791 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:49:32,529 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:49:41,810 - INFO - Extração concluída com sucesso.
+2026-03-04 20:49:42,017 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:49:42,077 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:49:42,077 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:50:13,022 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:50:15,226 - INFO - Extração concluída com sucesso.
+2026-03-04 20:50:15,468 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:50:15,552 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:50:15,552 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:50:15,552 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:50:19,846 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:52:13,799 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:52:15,897 - INFO - Extração concluída com sucesso.
+2026-03-04 20:52:16,086 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:52:16,140 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:52:16,141 - INFO - [04/03/2026 20:52:16]
+2026-03-04 20:52:16,141 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:57:02,268 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:57:05,958 - INFO - Extração concluída com sucesso.
+2026-03-04 20:57:06,175 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:57:06,226 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:57:06,227 - INFO - [04/03/2026 20:57:06]
+2026-03-04 20:57:06,227 - INFO - Pipeline concluído com sucesso.
+2026-03-04 20:57:56,727 - INFO - Iniciando pipeline ETL...
+2026-03-04 20:58:05,430 - INFO - Extração concluída com sucesso.
+2026-03-04 20:58:05,690 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 20:58:05,746 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 20:58:05,746 - INFO - Pipeline concluído com sucesso.
+2026-03-04 21:00:05,749 - INFO - Iniciando pipeline ETL...
+2026-03-04 21:00:11,371 - INFO - Extração concluída com sucesso.
+2026-03-04 21:00:11,569 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 21:00:11,620 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 21:00:11,620 - INFO - Pipeline concluído com sucesso.
+2026-03-04 21:07:46,291 - INFO - Iniciando pipeline ETL...
+2026-03-04 21:07:47,502 - INFO - Iniciando pipeline ETL...
+2026-03-04 21:07:49,561 - INFO - Extração concluída com sucesso.
+2026-03-04 21:07:49,796 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 21:07:49,857 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 21:07:49,857 - INFO - Pipeline concluído com sucesso.
+2026-03-04 21:07:52,279 - INFO - Iniciando pipeline ETL...
+2026-03-04 21:07:54,296 - INFO - Extração concluída com sucesso.
+2026-03-04 21:07:54,505 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-04 21:07:54,588 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-04 21:07:54,588 - INFO - Pipeline concluído com sucesso.
+2026-03-04 21:08:01,816 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:19:06,949 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:19:09,916 - INFO - Extração concluída com sucesso.
+2026-03-09 20:19:10,136 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:19:10,191 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:19:10,191 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:22:16,076 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:22:18,199 - INFO - Extração concluída com sucesso.
+2026-03-09 20:22:18,418 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:22:18,487 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:22:18,487 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:22:48,820 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:22:50,812 - INFO - Extração concluída com sucesso.
+2026-03-09 20:22:51,009 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:22:51,060 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:22:51,060 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:28:49,691 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:28:51,788 - INFO - Extração concluída com sucesso.
+2026-03-09 20:28:51,974 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:28:52,024 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:28:52,024 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:29:02,238 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:29:13,316 - INFO - Extração concluída com sucesso.
+2026-03-09 20:29:13,568 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:29:13,618 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:29:13,618 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:31:29,235 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:31:33,481 - INFO - Extração concluída com sucesso.
+2026-03-09 20:31:33,665 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:31:33,713 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:31:33,713 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:49:58,009 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:50:01,006 - INFO - Extração concluída com sucesso.
+2026-03-09 20:50:01,223 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:50:01,277 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:50:01,277 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:50:31,926 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:50:36,142 - INFO - Extração concluída com sucesso.
+2026-03-09 20:50:36,369 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:50:36,418 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:50:36,418 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:50:56,900 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:50:58,925 - INFO - Extração concluída com sucesso.
+2026-03-09 20:50:59,115 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:50:59,162 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:50:59,162 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:52:10,621 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:52:12,660 - INFO - Extração concluída com sucesso.
+2026-03-09 20:52:12,865 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:52:12,923 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:52:12,923 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:53:37,217 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:53:40,677 - INFO - Extração concluída com sucesso.
+2026-03-09 20:53:40,864 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:53:40,918 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:53:40,918 - INFO - Pipeline concluído com sucesso.
+2026-03-09 20:55:23,386 - INFO - Iniciando pipeline ETL...
+2026-03-09 20:55:26,860 - INFO - Extração concluída com sucesso.
+2026-03-09 20:55:27,041 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 20:55:27,094 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 20:55:27,094 - INFO - Pipeline concluído com sucesso.
+2026-03-09 21:00:27,137 - INFO - Iniciando pipeline ETL...
+2026-03-09 21:00:29,541 - INFO - Extração concluída com sucesso.
+2026-03-09 21:00:29,798 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-09 21:00:29,857 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-09 21:00:29,858 - INFO - Pipeline concluído com sucesso.
+2026-03-11 20:45:14,872 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:45:17,781 - INFO - Extração concluída com sucesso.
+2026-03-11 20:45:17,982 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 20:45:18,033 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 20:45:18,033 - INFO - Pipeline concluído com sucesso.
+2026-03-11 20:46:06,433 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:10,467 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:12,538 - INFO - Extração concluída com sucesso.
+2026-03-11 20:46:12,732 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 20:46:12,790 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 20:46:12,790 - INFO - Pipeline concluído com sucesso.
+2026-03-11 20:46:21,998 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:29,220 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:31,217 - INFO - Extração concluída com sucesso.
+2026-03-11 20:46:31,403 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 20:46:31,453 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 20:46:31,453 - INFO - Pipeline concluído com sucesso.
+2026-03-11 20:46:40,904 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:43,429 - INFO - Extração concluída com sucesso.
+2026-03-11 20:46:43,631 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 20:46:43,683 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 20:46:43,683 - INFO - Pipeline concluído com sucesso.
+2026-03-11 20:46:52,615 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:46:57,454 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:47:04,050 - INFO - Iniciando pipeline ETL...
+2026-03-11 20:47:06,150 - INFO - Extração concluída com sucesso.
+2026-03-11 20:47:06,337 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 20:47:06,386 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 20:47:06,386 - INFO - Pipeline concluído com sucesso.
+2026-03-11 21:00:06,411 - INFO - Iniciando pipeline ETL...
+2026-03-11 21:00:09,543 - INFO - Extração concluída com sucesso.
+2026-03-11 21:00:09,844 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-11 21:00:09,908 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-11 21:00:09,908 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:47:35,539 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:47:38,820 - INFO - Extração concluída com sucesso.
+2026-03-13 20:47:39,038 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:47:39,102 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:47:39,102 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:48:35,617 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:48:41,478 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:49:10,158 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:49:13,404 - INFO - Extração concluída com sucesso.
+2026-03-13 20:49:13,611 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:49:13,670 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:49:13,670 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:49:18,345 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:49:20,630 - INFO - Extração concluída com sucesso.
+2026-03-13 20:49:20,818 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:49:20,872 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:49:20,872 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:52:59,734 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:53:01,802 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:53:03,857 - INFO - Extração concluída com sucesso.
+2026-03-13 20:53:04,039 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:53:04,091 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:53:04,091 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:53:08,759 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:53:10,802 - INFO - Extração concluída com sucesso.
+2026-03-13 20:53:10,995 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:53:11,042 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:53:11,043 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:53:31,670 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:53:35,711 - INFO - Extração concluída com sucesso.
+2026-03-13 20:53:35,895 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:53:35,945 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:53:35,945 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:54:10,031 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:12,981 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:15,063 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:20,676 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:25,052 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:30,242 - INFO - Extração concluída com sucesso.
+2026-03-13 20:54:30,471 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:54:30,521 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:54:30,521 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:54:52,508 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:54,531 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:56,642 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:54:58,815 - INFO - Extração concluída com sucesso.
+2026-03-13 20:54:58,993 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:54:59,042 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:54:59,042 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:55:04,587 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:07,244 - INFO - Extração concluída com sucesso.
+2026-03-13 20:55:07,472 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:55:07,538 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:55:07,538 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:55:24,436 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:26,641 - INFO - Extração concluída com sucesso.
+2026-03-13 20:55:26,867 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:55:26,918 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:55:26,918 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:55:31,575 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:33,746 - INFO - Extração concluída com sucesso.
+2026-03-13 20:55:33,926 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:55:33,983 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:55:33,983 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:55:38,399 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:41,313 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:43,337 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:45,331 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:48,227 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:50,229 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:53,240 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:55:55,415 - INFO - Extração concluída com sucesso.
+2026-03-13 20:55:55,597 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:55:55,649 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:55:55,649 - INFO - Pipeline concluído com sucesso.
+2026-03-13 20:56:11,448 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:15,321 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:19,276 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:22,360 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:25,214 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:29,160 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:31,098 - INFO - Iniciando pipeline ETL...
+2026-03-13 20:56:38,639 - INFO - Extração concluída com sucesso.
+2026-03-13 20:56:38,816 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 20:56:38,864 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 20:56:38,864 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:00:38,867 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:00:41,194 - INFO - Extração concluída com sucesso.
+2026-03-13 21:00:41,360 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:00:41,409 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:00:41,409 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:04:38,457 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:04:51,123 - INFO - Extração concluída com sucesso.
+2026-03-13 21:04:51,314 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:04:51,368 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:04:51,368 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:05:09,330 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:05:12,264 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:05:15,217 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:05:17,378 - INFO - Extração concluída com sucesso.
+2026-03-13 21:05:17,571 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:05:17,620 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:05:17,620 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:06:34,560 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:06:36,714 - INFO - Extração concluída com sucesso.
+2026-03-13 21:06:36,921 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:06:36,995 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:06:36,995 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:06:51,421 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:06:53,489 - INFO - Extração concluída com sucesso.
+2026-03-13 21:06:53,735 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:06:53,787 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:06:53,788 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:06:58,096 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:07:00,300 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:07:02,570 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:07:04,808 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:07:06,909 - INFO - Extração concluída com sucesso.
+2026-03-13 21:07:07,128 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:07:07,186 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:07:07,187 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:07:10,337 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:07:19,056 - INFO - Extração concluída com sucesso.
+2026-03-13 21:07:19,243 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:07:19,296 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:07:19,296 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:08:03,783 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:08:06,823 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:08:17,714 - INFO - Extração concluída com sucesso.
+2026-03-13 21:08:17,890 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:08:17,939 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:08:17,939 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:08:33,492 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:08:39,387 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:08:41,374 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:08:43,701 - INFO - Extração concluída com sucesso.
+2026-03-13 21:08:43,930 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:08:44,030 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:08:44,030 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:09:00,584 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:03,437 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:06,443 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:08,595 - INFO - Extração concluída com sucesso.
+2026-03-13 21:09:08,774 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:09:08,828 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:09:08,829 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:09:11,573 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:14,657 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:16,669 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:18,780 - INFO - Extração concluída com sucesso.
+2026-03-13 21:09:18,972 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:09:19,024 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:09:19,024 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:09:47,316 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:49,357 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:09:51,710 - INFO - Extração concluída com sucesso.
+2026-03-13 21:09:52,006 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:09:52,062 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:09:52,063 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:10:47,201 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:10:50,010 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:10:53,026 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:10:58,070 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:11:01,923 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:11:04,154 - INFO - Extração concluída com sucesso.
+2026-03-13 21:11:04,412 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:11:04,468 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:11:04,468 - INFO - Pipeline concluído com sucesso.
+2026-03-13 21:11:23,150 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:11:26,108 - INFO - Iniciando pipeline ETL...
+2026-03-13 21:11:28,928 - INFO - Extração concluída com sucesso.
+2026-03-13 21:11:29,148 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-13 21:11:29,203 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-13 21:11:29,203 - INFO - Pipeline concluído com sucesso.
+2026-03-31 21:03:09,418 - INFO - Iniciando pipeline ETL...
+2026-03-31 21:03:15,818 - INFO - Extração concluída com sucesso.
+2026-03-31 21:03:16,191 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-31 21:03:16,311 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-31 21:03:16,311 - INFO - Pipeline concluído com sucesso.
+2026-03-31 21:05:39,378 - INFO - Iniciando pipeline ETL...
+2026-03-31 21:05:41,743 - INFO - Extração concluída com sucesso.
+2026-03-31 21:05:42,028 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-31 21:05:42,106 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-31 21:05:42,107 - INFO - Pipeline concluído com sucesso.
+2026-03-31 21:14:32,183 - INFO - Iniciando pipeline ETL...
+2026-03-31 21:14:45,718 - INFO - Extração concluída com sucesso.
+2026-03-31 21:14:47,219 - INFO - Transformação concluída: dados totalmente tratados.
+2026-03-31 21:14:47,395 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-03-31 21:14:47,396 - INFO - Pipeline concluído com sucesso.
+2026-04-13 20:36:30,945 - INFO - Iniciando pipeline ETL...
+2026-04-13 20:36:45,800 - INFO - Extração concluída com sucesso.
+2026-04-13 20:36:46,220 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-13 20:36:46,334 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-13 20:36:46,335 - INFO - Pipeline concluído com sucesso.
+2026-04-13 21:00:46,394 - INFO - Iniciando pipeline ETL...
+2026-04-13 21:01:08,399 - ERROR - Erro na extração: ("Connection broken: ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)", ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2026-04-13 21:01:08,414 - WARNING - Nenhum dado disponível para transformar.
+2026-04-13 21:01:08,414 - WARNING - Nenhum dado disponível para carregar.
+2026-04-13 21:01:08,414 - INFO - Pipeline concluído com sucesso.
+2026-04-14 19:55:20,573 - INFO - Iniciando pipeline ETL...
+2026-04-14 19:55:29,942 - INFO - Extração concluída com sucesso.
+2026-04-14 19:55:30,346 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-14 19:55:30,442 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-14 19:55:30,442 - INFO - Pipeline concluído com sucesso.
+2026-04-14 21:00:30,526 - INFO - Iniciando pipeline ETL...
+2026-04-14 21:00:42,420 - INFO - Extração concluída com sucesso.
+2026-04-14 21:00:42,733 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-14 21:00:42,803 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-14 21:00:42,803 - INFO - Pipeline concluído com sucesso.
+2026-04-15 18:56:09,172 - INFO - Iniciando pipeline ETL...
+2026-04-15 18:56:25,828 - INFO - Extração concluída com sucesso.
+2026-04-15 18:56:26,177 - INFO - Transformação concluída: dados totalmente tratados.
+2026-04-15 18:56:26,253 - INFO - Arquivo salvo com sucesso em: ocorrencias_tratadas.csv
+2026-04-15 18:56:26,253 - INFO - Pipeline concluído com sucesso.
