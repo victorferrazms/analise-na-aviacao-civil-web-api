@@ -18,7 +18,7 @@ from app.routers import mapa
 # Função que mantém o agendamento rodando em background
 def run_scheduler():
     # Agenda a tarefa
-    schedule.every().day.at("21:00").do(executar_pipeline)
+    schedule.every().day.at("02:30").do(executar_pipeline)
     # Executa a primeira vez ao iniciar
     executar_pipeline()
     
