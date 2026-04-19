@@ -1,4 +1,3 @@
-# analise-na-aviacao-civil-web-api
 # Análise da Segurança Operacional na Aviação Civil: Uso de Dados Automatizados para Monitoramento e Prevenção ✈️🤖
 
 Este repositório contém o **Backend (Web API)** do Trabalho de Conclusão de Curso (TCC) para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas do **Instituto Federal do Tocantins (IFTO) - Campus Araguaína**.
@@ -41,3 +40,16 @@ O projeto foi desenvolvido seguindo os princípios de **Clean Code** e **Arquite
 ├── requirements.txt      # Dependências do projeto
 ├── pipeline.log          # Histórico de execução do ETL
 └── ocorrencias_tratadas.csv # Base de dados final após processamento
+
+## 👨‍💻 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para obtenção do título de Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+Desenvolvido por:
+- Sávio Vitor Alves do Santos
+- Victor Manoel de Sousa Ferraz
+
+Sob a orientação de:
+
+- Orientador: Dr. Walisson Pereira de Sousa
+- Co-orientadora: Me. Sabrina Guimarães Paiva
+
+Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) - Campus Araguaína, 2026.
