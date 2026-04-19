@@ -40,8 +40,9 @@ O projeto foi desenvolvido seguindo os princípios de **Clean Code** e **Arquite
 ├── requirements.txt      # Dependências do projeto
 ├── pipeline.log          # Histórico de execução do ETL
 └── ocorrencias_tratadas.csv # Base de dados final após processamento
+```
 
-## 👨‍💻 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para obtenção do título de Tecnólogo em Análise e Desenvolvimento de Sistemas.
+## 👨‍💻 Equipe do Projeto
 
 Desenvolvido por:
 - Sávio Vitor Alves do Santos
