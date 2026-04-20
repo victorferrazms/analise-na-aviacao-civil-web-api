@@ -10,9 +10,9 @@ from app.services.etl_service import executar_pipeline
 from app.routers import analises
 from app.routers import pcaAmostra
 from app.routers import pcaCompleto
-from app.routers import clusterPorUf
+from app.routers import clusterPorRegiao
 from app.routers import corelacaoVariaveisNumericas
-from app.routers import ocorenciasUfCluster
+from app.routers import ocorenciasRegiaoCluster
 from app.routers import mapa
 
 # Função que mantém o agendamento rodando em background
@@ -53,7 +53,7 @@ app.include_router(analises.router)
 
 app.include_router(pcaAmostra.router)
 app.include_router(pcaCompleto.router)
-app.include_router(clusterPorUf.router)
+app.include_router(clusterPorRegiao.router)
 app.include_router(corelacaoVariaveisNumericas.router)
-app.include_router(ocorenciasUfCluster.router)
+app.include_router(ocorenciasRegiaoCluster.router)
 app.include_router(mapa.router)

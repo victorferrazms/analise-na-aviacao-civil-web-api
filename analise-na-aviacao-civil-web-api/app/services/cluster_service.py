@@ -36,7 +36,7 @@ def ObterDfClusters(dataFrame: pd.DataFrame, modelo: KMeans, pcaData: any):
 
 #GERA E RETORNA UMA AMOSTRA
 def ObterAmostra(dataSet: any):
-    amostra1, amostra2 = train_test_split(dataSet, train_size = .01, random_state=42)
+    amostra1, amostra2 = train_test_split(dataSet, train_size = .10, random_state=42)
     return amostra1
 
 #RETORNA O DATAFRAME PADRONIZADO
