@@ -51,6 +51,6 @@ Desenvolvido por:
 Sob a orientação de:
 
 - Orientador: Dr. Walisson Pereira de Sousa
-- Co-orientadora: Me. Sabrina Guimarães Paiva
+- Co-orientadora: Dra. Sabrina Guimarães Paiva
 
 Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) - Campus Araguaína, 2026.
